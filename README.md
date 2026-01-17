@@ -43,7 +43,7 @@ The dashboard includes:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](myEmployee-data1/image/dashboard_preview.png)
 
 ---
 
